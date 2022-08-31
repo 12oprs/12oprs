@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex!  
+  
+I've just graduated Hexlet school and now I'm looking for the new career opportunities as a Junior Backend developer.  
+  
+My CV: [Hexlet-CV](https://cv.hexlet.io/resumes/592)
+#### My contacts:  
+
+[![Mail Badge](https://img.shields.io/badge/-12oprs@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:12oprs@gmail.com) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexl1234)  
+
 
 <!--
 **12oprs/12oprs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
