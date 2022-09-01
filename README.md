@@ -6,7 +6,7 @@ My CV: [Hexlet-CV](https://cv.hexlet.io/resumes/592)
   
 My contacts:  
   
-[![Mail Badge](https://img.shields.io/badge/-12oprs@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:12oprs@gmail.com) 
+[![Mail Badge](https://img.shields.io/badge/-abcd220901@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abcd220901@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexl1234)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12oprs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
